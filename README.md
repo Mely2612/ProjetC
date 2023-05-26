@@ -31,3 +31,7 @@ Cette fonction permet de lancer l'application. On utilise "scanf("%[^\n]%C", ent
 ## Utilisation
 
 Il suffit d'exécuter le makefile() en tapant "make" pour compiler le main(). Ensuite on exécute le main en faisant "./main" dans notre terminal.
+
+## Accès au Git
+
+https://github.com/Mely2612/ProjetC.git
